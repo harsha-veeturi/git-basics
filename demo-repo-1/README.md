@@ -16,4 +16,4 @@ We will explore all the basic git commands to understand
 ## Local Development
 
 1. Open main.html in your browser
-
+2. In main.html there is only one div tag to make changes.
