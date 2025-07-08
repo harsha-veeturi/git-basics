@@ -13,4 +13,7 @@ We will explore all the basic git commands to understand
 5. finally after making changes we will use git push to push the changes to the master.
 
 
+## Local Development
 
+1. Open main.html in your browser
+2. In main.html there is only one div tag to make changes.
